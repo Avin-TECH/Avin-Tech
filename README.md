@@ -61,7 +61,7 @@ Featured Projects 💻
 Automated Blood Smear Analysis for Anemia Detection is a deep learning–based medical imaging system built using VGG16 transfer learning on the AneRBC dataset. The project demonstrates my ability to design end-to-end ML pipelines, apply data augmentation, and evaluate clinical-grade classification models.
 Result: Achieved 94.85% accuracy with real-time prediction and confidence scoring.
 
-🔗 Repository: Add GitHub link here
+🔗 Repository: (https://github.com/Avin-TECH/Automated-Blood-Smear-Analysis-for-Fast-Anaemia-Detection-in-Low-Resource-Clinics.git)
 🛠️ Technologies: Python, TensorFlow, Keras, Computer Vision, Scikit-learn
 
 🌍 Global Renewable Energy Forecasting
