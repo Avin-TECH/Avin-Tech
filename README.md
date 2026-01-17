@@ -40,29 +40,37 @@ Developed responsive frontends with HTML, CSS, Bootstrap, and React
 
 Applied OOP, version control, and software engineering best practices
 
-## My Skills 🧠
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+## My Skills 🧠
+Programming Languages Python,C++,C,SQL,Git
+Mathematics Linear Algebra, Calculus,Statistics
+Machine Learning TensorFlow, Scikit-learn, Deep Learning (CNNs, RNNs),Feature Engineering
+Data Science Matplotlib, Seaborn, Plotly,Pandas, NumPy
+Cloud platform AWS
+Web Development Django,React
+Development Tools Docker, Jupyter, VS Code, PyCharm
+
+
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
+Featured Projects 💻
+🩸 Automated Blood Smear Analysis for Anemia Detection (Master’s Thesis)
 
-### [Project 1 Title](project_1_link)
+Automated Blood Smear Analysis for Anemia Detection is a deep learning–based medical imaging system built using VGG16 transfer learning on the AneRBC dataset. The project demonstrates my ability to design end-to-end ML pipelines, apply data augmentation, and evaluate clinical-grade classification models.
+Result: Achieved 94.85% accuracy with real-time prediction and confidence scoring.
 
-![Project 1 Screenshot](project_1_screenshot_url)
+🔗 Repository: Add GitHub link here
+🛠️ Technologies: Python, TensorFlow, Keras, Computer Vision, Scikit-learn
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+🌍 Global Renewable Energy Forecasting
 
-### [Project 2 Title](project_2_link)
+Global Renewable Energy Forecasting is a time-series forecasting project that predicts renewable energy trends up to 2040 using 57 years of historical data. This project showcases my skills in statistical modeling, forecasting, and data-driven policy analysis.
 
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+🔗 Repository: Add GitHub link here
+🛠️ Technologies: Python, Scikit-learn, ARIMA, Time Series Analysis, Data Visualization
+📊 Result: 99%+ forecasting accuracy across energy sources
 
 ## Get in Touch 📬
 
